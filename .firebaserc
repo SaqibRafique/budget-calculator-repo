@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "budget-calculator-f1584": {
+      "hosting": {
+        "budget-calculator": [
+          "budget-calculator-f1584"
+        ]
+      }
+    }
+  }
+}
