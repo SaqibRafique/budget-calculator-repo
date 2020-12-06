@@ -5,14 +5,13 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyCzZt-mqnqM4_gR_Ien8dO-N6_UN9DFRoU",
-    authDomain: "budget-calculator-f1584.firebaseapp.com",
-    databaseURL: "https://budget-calculator-f1584.firebaseio.com",
-    projectId: "budget-calculator-f1584",
-    storageBucket: "budget-calculator-f1584.appspot.com",
-    messagingSenderId: "344603791980",
-    appId: "1:344603791980:web:41f1311d77c159171b3e49",
-    measurementId: "G-VK07CL7MPJ"
+    apiKey: "AIzaSyDNgzVhYbpDwPdVd6NgczHfZ6MwRFkoXig",
+    authDomain: "budget-calculate-7aba7.firebaseapp.com",
+    projectId: "budget-calculate-7aba7",
+    storageBucket: "budget-calculate-7aba7.appspot.com",
+    messagingSenderId: "519314577693",
+    appId: "1:519314577693:web:c8d7a0cf15a423049669f4",
+    measurementId: "G-XB9C0KQCWV"
   }
 };
 

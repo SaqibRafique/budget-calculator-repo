@@ -1,9 +1,9 @@
 {
   "targets": {
-    "budget-calculator-f1584": {
+    "budget-calculate-7aba7": {
       "hosting": {
         "budget-calculator": [
-          "budget-calculator-f1584"
+          "budget-calculate-7aba7"
         ]
       }
     }
